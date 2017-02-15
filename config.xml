@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.feedhenry.dart.aerogear.cordova" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Push Starter</name>
+<widget id="com.redhat.testproject" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Cordova Push</name>
     <description>
         A demonstration of how to use push notifications with RHMAP.
     </description>
-    <author email="feedhenry-dev@redhat.com" href="http://feedhenry.org">
-        Feedhenry
+    <author email="cbennett@redhat.com" href="http://feedhenry.org">
+        Red Hat Mobile
     </author>
     <content src="index.html" />
     <access origin="*" />
